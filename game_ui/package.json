@@ -1,0 +1,15 @@
+{
+  "name": "avengers-game",
+  "version": "1.0.0",
+  "description": "A simple Phaser game with Avengers characters",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "phaser": "^3.55.2"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+} 
